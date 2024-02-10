@@ -11,8 +11,6 @@ This is my solution to the [Single Price Grid Component challenge on Frontend Me
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
-  - [Useful Resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -31,7 +29,7 @@ Users should be able to:
 
 ### Links
 
--[Live Site URL](https://your-live-site-url.com)
+-[Live Site URL](https://vinits-repo.github.io/single-price-grid-component-master/)
 
 ## My Process
 
